@@ -1,2 +1,2 @@
-# c-basic-text-editor-win32
-A very basic win32 text editor code
+# win32 simple programs
+I keep a collection of my created simple win32 apps here.
